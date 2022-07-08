@@ -1,2 +1,2 @@
 # ansible
-My ansible playbooks and roles
+Role for nginx automate installation on either deb-based or rpm-based linux.

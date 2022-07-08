@@ -1,0 +1,10 @@
+ansible_ssh_host: 51.250.74.36
+
+siteslist:
+ - "www.ubuntu-test1.com"
+
+ - "www.ubuntu-test2.com"
+
+ - "www.ubuntu-test3.com"
+
+

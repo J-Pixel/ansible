@@ -1,0 +1,10 @@
+ansible_ssh_host: 62.84.113.156
+
+siteslist:
+ - "www.debian-test1.com"
+
+ - "www.debian-test2.com"
+
+ - "www.debian-test3.com"
+
+

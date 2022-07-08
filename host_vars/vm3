@@ -1,0 +1,10 @@
+ansible_ssh_host: 62.84.114.18
+
+siteslist:
+ - "www.centos7-test1.com"
+
+ - "www.centos7-test2.com"
+
+ - "www.centos7-test3.com"
+
+
